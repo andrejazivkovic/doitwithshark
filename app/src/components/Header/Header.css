@@ -1,0 +1,60 @@
+.bg-color{
+    background-color: rgb(60, 86, 111);
+}
+
+.font-costume{
+    font-family: BioRyhme;
+    font-size: 13px;
+    text-align: center;
+    font-weight: bolder;
+    color: #FFFFFF;
+}
+.navbar-brand{
+    font-size: 40px;
+}
+.r1 {
+    width: 100%;
+}
+.margina{
+    margin-left: 700px;
+
+
+}
+
+.p1{
+    letter-spacing: 0.3px;
+    margin-left: 20px;
+    margin-right: 20px;;
+    margin-top:8px;
+}
+ul:hover .p1{
+    transform: scale(1);
+    opacity: .2;
+
+}
+ul .p1:hover{
+    transform: scale(2);
+    opacity: 1;
+    filter:blur(0);
+    font-size: 8px;
+    background: rgb(0, 64, 139);
+    margin-top:10px;
+    border-radius: 5px;
+}
+
+.typeCostume{
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    text-transform: lowercase;
+
+
+}
+.loggind{
+    font-family:'Popin', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
