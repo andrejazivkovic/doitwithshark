@@ -22,7 +22,9 @@ https://finkiukim-my.sharepoint.com/:v:/g/personal/andreja_zhivkovikj_students_f
 <h2>Инсталација</h2>
 <p>Симнете го проектот на вашиот компјутер со следната команда
 <br>
- git clone git@github.com:andrejazivkovic/doitwithshark.git
+ git clone https://github.com/andrejazivkovic/doitwithshark.git
+ или со ssh
+ git clone git@github.com:andrejazivkovic/doitwithshark.git 
  <br>
  Отворете го проектот во Intellij, во Terminal прозорецот напишете npm install за да се инсталираат потребните пакети
  <br>
